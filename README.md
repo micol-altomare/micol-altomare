@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - âš¡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=F7F4F4&width=550&lines=Welcome+to+my+Github+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=2AB7CA&width=550&lines=Welcome+to+my+Github+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
 <br />
 
 My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡¨ðŸ‡¦
@@ -24,7 +24,7 @@ My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡
 ðŸŽ“ Pursuing Engineering Science (Machine Intelligence major) at the University of Toronto <img alt="GIF" src="https://cdn4.iconfinder.com/data/icons/landmark-color/256/2-512.png" width= "3%" height= "100%" />
 
 
-
+<!--
 ### Some tools and languages I'm _currently learning_:
 ![HTML](https://img.shields.io/badge/HTML-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54)
 ![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54)
@@ -33,7 +33,7 @@ My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡
 ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-3670A0?style=for-the-badge&logo=amazonaws&logoColor=ffdd54)
 ![mySQL](https://img.shields.io/badge/mySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)
-
+-->
 
 ### Some of the languages and frameworks that I work with are:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,10 +42,10 @@ My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡
 
 
 ### Other tools that I have used:
-![Dart](https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart)
+![Dart](https://img.shields.io/badge/Dart-pink?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-grey?style=for-the-badge&logo=googlecloud)
-![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-green?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git)
 ![MATLAB](https://img.shields.io/badge/MATLAB-20B2AA?style=for-the-badge)
 ![Gitlab](https://img.shields.io/badge/Gitlab-grey?style=for-the-badge&logo=gitlab)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -53,15 +53,16 @@ My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡
 ![Google Colab](https://img.shields.io/badge/Google_Colab-grey?style=for-the-badge&logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter)
 ![Latex](https://img.shields.io/badge/Latex-grey?style=for-the-badge&logo=latex)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20B2AA?style=for-the-badge)
 
 ### Some of the _machine learning_ tools I have worked with are:
 ![Numpy](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow)
 ![Pytorch](https://img.shields.io/badge/Pytorch-grey?style=for-the-badge&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-navy?style=for-the-badge&logo=pandas)
 ![Sci-kit Learn](https://img.shields.io/badge/Scikit_Learn-grey?style=for-the-badge&logo=scikitlearn)
 ![JAX](https://img.shields.io/badge/JAX-20B2AA?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-20B2AA?style=for-the-badge)
+
 
 ### Biology tools + libraries I've used:
 ![Biopython](https://img.shields.io/badge/Biopython-20B2AA?style=for-the-badge)
