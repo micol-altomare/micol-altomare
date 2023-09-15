@@ -23,8 +23,9 @@ My name is Micol, and I'm an aspiring Machine Learning Engineer from Toronto ðŸ‡
 
 ðŸŽ“ Pursuing Engineering Science (Machine Intelligence major) at the University of Toronto <img alt="GIF" src="https://cdn4.iconfinder.com/data/icons/landmark-color/256/2-512.png" width= "3%" height= "100%" />
 
+![yourbadge](https://img.shields.io/badge/Racket-blue.svg?style=for-the-badge&logo=data:assets/jax.png)
+<!--logo=data:assets/jax.png
 
-<!--
 ### Some tools and languages I'm _currently learning_:
 ![HTML](https://img.shields.io/badge/HTML-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54)
 ![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54)
