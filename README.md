@@ -18,7 +18,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=2AB7CA&width=550&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg) 
 
-🌟 Hi, I'm Micol! 👩🏻‍💻 I am an aspiring data and machine learning engineer and 3rd year student studying Engineering Science at the University of Toronto. 🎓 Currently majoring in Machine Intelligence and minoring in bioengineering and English, I am passionate about high-impact human-driven applications of AI such as LLMs and protein design. ✨
+🌟 Hi, I'm Micol! 👩🏻‍💻 I am an aspiring data and machine learning engineer and 3rd year student studying Engineering Science at the University of Toronto. 🎓 Currently majoring in Machine Intelligence and minoring in bioengineering and English, I am passionate about high-impact human-driven applications of AI such as LLMs, protein design and computer vision. ✨
 
 <!--
 ### Some tools and languages I'm currently learning:
@@ -29,7 +29,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 ![mySQL](https://img.shields.io/badge/mySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 -->
 
-### Some of the languages, frameworks and tools that I work with are:
+### Some of the languages, frameworks, tools and technologies that I work with are:
 ##### 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
