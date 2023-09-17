@@ -49,7 +49,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 ![Jupyter](https://img.shields.io/badge/Jupyter-834371?style=for-the-badge&logo=jupyter)
 ![Latex](https://img.shields.io/badge/Latex-0d6305?style=for-the-badge&logo=latex)
 ![HTML](https://img.shields.io/badge/HTML-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54)
-![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/CSS-3620A0?style=for-the-badge&logo=css3&logoColor=ffdd54)
 
 
 ##### ⛳ **Machine learning** libraries:
@@ -72,5 +72,5 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 
 
 <a href="https://www.linkedin.com/in/micol-altomare/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:micol.altomare@mail.utoronto.ca">![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="mailto:micol.altomare@mail.utoronto.ca">![Outlook](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white) </a>
 <a href="https://twitter.com/MicolAltomare">![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=x)
