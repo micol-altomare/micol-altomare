@@ -52,7 +52,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 ![CSS](https://img.shields.io/badge/CSS-3620A0?style=for-the-badge&logo=css3&logoColor=ffdd54)
 
 
-##### ⛳ **Machine learning** libraries:
+##### ⛳ Machine learning:
 ![Numpy](https://img.shields.io/badge/Numpy-dc5855?style=for-the-badge&logo=numpy)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-45cab3?style=for-the-badge&logo=tensorflow)
 ![Pytorch](https://img.shields.io/badge/Pytorch-f8996d?style=for-the-badge&logo=pytorch)
