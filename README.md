@@ -18,7 +18,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=2AB7CA&width=550&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg) 
 
-🌟 Hi, I'm Micol! 👩🏻‍💻 I am an aspiring software and machine learning engineer and 3rd year student studying Engineering Science at the University of Toronto. 🎓 Currently majoring in Machine Intelligence and minoring in bioengineering and English, I am passionate about high-impact human-driven applications of AI such as LLMs, protein design and computer vision. ✨
+🌟 Hi, I'm Micol! 👩🏻‍💻 I am an aspiring AI-driven product manager and 4th year student studying Engineering Science at the University of Toronto. 🎓 Currently majoring in Machine Intelligence and minoring in business and English, I am passionate about high-impact human-driven applications of AI such as agents and multimodal LLMs. ✨
 
 <!--
 ### Some tools and languages I'm currently learning:
