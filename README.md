@@ -18,7 +18,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=2AB7CA&width=550&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg) 
 
-🌟 Hi, I'm Micol! 👩🏻‍💻 I am an aspiring AI-driven product manager and 4th year student studying Engineering Science at the University of Toronto. 🎓 Currently majoring in Machine Intelligence and minoring in business and English literature, I am passionate about high-impact human-driven applications of AI such as agents and multimodal LLMs at scale. ✨
+🌟 Hi, I'm Micol! 👩🏻‍💻 I am an AI-native product manager at [Katalyze AI](https://www.katalyzeai.com/) where I'm building the agentic platform from the ground up. 🚀 I recently completed my undergraduate degree in Engineering Science at the University of Toronto where I majored in Machine Intelligence and double-minored in Business and English literature. 🎓 I am passionate about high-impact human-driven applications of AI such as agents and multilingual LLMs at scale. ✨
 
 <!--
 ### Some tools and languages I'm currently learning:
@@ -29,7 +29,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 ![mySQL](https://img.shields.io/badge/mySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 -->
 
-### Some of the languages, frameworks, tools and technologies that I work with are:
+### Some of the languages, frameworks, tools and technologies I have worked with are:
 ##### 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
