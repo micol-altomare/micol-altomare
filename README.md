@@ -18,7 +18,7 @@ Reference for badges: https://github.com/badges/shields/blob/master/frontend/doc
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=2AB7CA&width=550&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg) 
 
-🌟 Hi, I'm Micol! 👩🏻‍💻 I am an AI-native product manager at [Katalyze AI](https://www.katalyzeai.com/) where I'm building the agentic platform from the ground up. 🚀 I recently completed my undergraduate degree in Engineering Science at the University of Toronto where I majored in Machine Intelligence and double-minored in Business and English literature. 🎓 I am passionate about high-impact human-driven applications of AI such as agents and multilingual LLMs at scale. ✨
+🌟 Hi, I'm Micol! 👩🏻‍💻 I am an AI-native product manager at [Katalyze AI](https://www.katalyzeai.com/) where I'm building an agentic platform for life sciences from the ground up. 🚀 I recently completed my undergraduate degree in Engineering Science at the University of Toronto where I majored in Machine Intelligence and double-minored in Business and English literature. 🎓 I am passionate about high-impact human-driven applications of AI such as agents and multilingual LLMs at scale. ✨
 
 <!--
 ### Some tools and languages I'm currently learning:
